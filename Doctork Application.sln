@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Doctork Application", "Doctork Application.pyproj", "{99E0AB13-A43D-4C82-9E0F-ABC15532FB46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99E0AB13-A43D-4C82-9E0F-ABC15532FB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E0AB13-A43D-4C82-9E0F-ABC15532FB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2AA53AD-5655-4B1F-8B36-2A5BFEF37823}
+	EndGlobalSection
+EndGlobal
